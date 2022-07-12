@@ -1,0 +1,1 @@
+export const loggedInEvent = new CustomEvent("logged-in")
